@@ -2,16 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:33655/gus-minimal-blog/pages/about/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/posts/movies/2026/civil_war_review/</loc>
+    <lastmod>2026-01-04T17:51:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:33655/gus-minimal-blog/categories/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/</loc>
+    <lastmod>2026-01-04T17:51:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:33655/gus-minimal-blog/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/posts/</loc>
+    <lastmod>2026-01-04T17:51:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:33655/gus-minimal-blog/pages/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:33655/gus-minimal-blog/posts/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:33655/gus-minimal-blog/tags/</loc>
+    <loc>http://localhost:1313/gus-minimal-blog/pages/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gus-minimal-blog/tags/</loc>
   </url>
 </urlset>
