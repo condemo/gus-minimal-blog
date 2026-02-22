@@ -1,5 +1,5 @@
 name=no_name
-year=2026
+year=$$(date +"%Y")
 
 build:
 	@echo "removing public/ folder"
